@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋
+<p><b>안녕하세요 백엔드 개발자를 목표로 공부중인 이호준 입니다.</b></p>
 <div>
   <h2> Stack </h2>
   <p style="font-family:fantasy;">Programming Language</p>
@@ -8,8 +8,11 @@
   <p> FrameWork </p>
   <img src="https://img.shields.io/badge/Spring-CCE4C3.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/Spring Boot-CCE4C3.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
   
+  <p> DataBase </p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=232F3E" /> <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=#6DB33F" />
+  
   <p> Cloud </p>
-  <img src="https://img.shields.io/badge/AWS-CED8F6.svg?style=for-the-badge&logo=amazonaws&logoColor=232F3E" /> <img src="https://img.shields.io/badge/GCP-CED8F6.svg?style=for-the-badge&logo=googlecloud&logoColor=#4285F4" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=#232F3E" /> <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF" />
 
 </div>
 <!--
