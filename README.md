@@ -6,16 +6,16 @@
 <div>
   <h2> Stack </h2>
   <p style="font-family:fantasy;">Programming Language</p>
-  <img src="https://img.shields.io/badge/Java-D8D8D8.svg?style=for-the-badge&logo=openjdk&logoColor=232F3E" /> <img src="https://img.shields.io/badge/Python-D8D8D8.svg?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-D8D8D8.svg?style=flat&logo=openjdk&logoColor=232F3E" /> <img src="https://img.shields.io/badge/Python-D8D8D8.svg?style=flat&logo=python" />
 
   <p> FrameWork </p>
-  <img src="https://img.shields.io/badge/Spring Boot-CCE4C3.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
+  <img src="https://img.shields.io/badge/Spring Boot-CCE4C3.svg?style=flat&logo=springboot&logoColor=#6DB33F" />
   
   <p> DataBase </p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=232F3E" /> <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=#6DB33F" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=232F3E" /> <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=oracle&logoColor=#6DB33F" />
   
   <p> Cloud </p>
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=#232F3E" /> <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=#232F3E" /> <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=flat&logo=googlecloud&logoColor=FFFFFF" />
 
 </div>
 <!--
